@@ -35,9 +35,6 @@ img.shape
 width_bbox = height_bbox = 100
 
 # Get/define center coordinates-
-# data['RGB00004.exr'][random_gt_coord]
-# xc = data['RGB00004.exr'][random_gt_coord][0]
-# yc = = data['RGB00004.exr'][random_gt_coord][1]
 xc = 1019
 yc = 583
 
